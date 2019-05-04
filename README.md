@@ -1,2 +1,2 @@
 # xorwin-be
-xorwin flask app
+xorwin flask rest api
